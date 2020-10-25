@@ -1,3 +1,23 @@
-# paixaopet-front
+# PaixãoPet Front
 
 Front of PaixãoPet, my big dream project. A project that helps people to adopt pets.
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
